@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0AC1C88D-5454-4C50-B4B9-3390BBB12206</string>
+	<key>IDESourceControlProjectName</key>
+	<string>uexCreditCardRec</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F5070B8B-4C8E-4DF6-B7A9-1D6B5C92F1FB</key>
+		<string>https://192.168.1.38/svn/Plugin3.0_IOS/trunk/code/public/EUExCreditCardRec</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>code/public/EUExCreditCardRec/uexCreditCardRec.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F5070B8B-4C8E-4DF6-B7A9-1D6B5C92F1FB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>F5070B8B-4C8E-4DF6-B7A9-1D6B5C92F1FB</key>
+		<string>https://192.168.1.38/svn/Plugin3.0_IOS</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://192.168.1.38/svn/Plugin3.0_IOS/trunk/code/public/EUExCreditCardRec/uexCreditCardRec.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F5070B8B-4C8E-4DF6-B7A9-1D6B5C92F1FB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F5070B8B-4C8E-4DF6-B7A9-1D6B5C92F1FB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>EUExCreditCardRec</string>
+		</dict>
+	</array>
+</dict>
+</plist>
